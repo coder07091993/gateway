@@ -1,0 +1,6 @@
+#Follow the steps to run the Application
+
+1. opem terminal in the root directory.
+2. Run command `npm install`.
+3. Start the `Server` from the Server Folder
+3. Run command `npm start`.
